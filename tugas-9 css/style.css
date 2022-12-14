@@ -1,0 +1,19 @@
+body{
+  background-image: url("slider2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 2;
+}
+
+div{
+  width: 700px;
+  height: 600px;
+  background-color: white;
+  float: right;
+  margin: 0 auto;
+  text-align: right;
+  z-index: 1;
+  position: relative;
+  font-weight: bold;
+  font-size: 14px;
+}
